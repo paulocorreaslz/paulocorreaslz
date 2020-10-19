@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with Go Lang...
 - 💬 Ask me about anything...
 - 📫 How to reach me: pauloyaco@gmail.com
-- :earth_americas: Travel is my passion..
+- :earth_americas: Traveling is my passion..
 - ⚡ Fun fact: i'm Brazilian but i don't play soccer anymore..
