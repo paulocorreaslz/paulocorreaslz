@@ -9,3 +9,5 @@
 - 📫 How to reach me: pauloyaco@gmail.com
 - :earth_americas: Traveling is my passion..
 - ⚡ Fun fact: i'm Brazilian but i don't play soccer anymore..
+
+![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=paulocorreaslz&show_icons=true&theme=radical)
